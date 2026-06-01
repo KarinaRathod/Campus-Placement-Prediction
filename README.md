@@ -1,4 +1,4 @@
-🎓 Campus Placement & Salary Intelligence System
+#🎓 Campus Placement & Salary Intelligence System
 An end-to-end Machine Learning platform that leverages Random Forest Ensembles to predict student placement outcomes and potential salary packages (LPA). Built with a focus on Explainable AI (XAI), this system doesn't just give a "Yes" or "No"—it explains the "Why" through feature importance analytics.
 
 🚀 Key Features
